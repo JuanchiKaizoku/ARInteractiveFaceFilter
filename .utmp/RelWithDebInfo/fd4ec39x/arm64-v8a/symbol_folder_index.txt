@@ -1,0 +1,1 @@
+C:\Users\juanc\Desktop\CURSO ESPECIALIZACION\FaceFilter\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\fd4ec39x\obj\arm64-v8a
